@@ -1,0 +1,28 @@
+<template>
+  <!-- footer section starts  -->
+
+  <footer class="footer">
+    <section>
+      <div class="share">
+        <a href="#" class="fab fa-facebook-f"></a>
+        <a href="#" class="fab fa-twitter"></a>
+        <a href="#" class="fab fa-linkedin"></a>
+        <a href="#" class="fab fa-instagram"></a>
+        <a href="#" class="fab fa-youtube"></a>
+      </div>
+
+      <div class="credit">
+        &copy; copyright @ 2022 by <span>mr. web designer</span> | all rights
+        reserved!
+      </div>
+    </section>
+  </footer>
+
+  <!-- footer section ends -->
+</template>
+
+<script>
+export default {
+  name: "FooterEdu",
+};
+</script>
